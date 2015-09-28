@@ -1,0 +1,15 @@
+{
+  "name": "gonsakon",
+  "version": "1.0.0",
+  "description": "taiwan Shelter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gonsakon",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.0.0",
+    "fast-csv": "^0.6.0"
+  }
+}
